@@ -1,0 +1,64 @@
+.center {
+    text-align: center;
+  }
+
+  .centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .fulldiv {
+    height: 100%;
+    width: 100%;
+    background-size:cover; width:auto;
+    background-image:url('../../assets/img/band.jpg');
+    background-position:50% 50%;
+  
+    /* example padding, font-size, background, etc */
+    
+    font-size: 20px;
+  }
+
+.example8{
+	color: white;
+	font-size: 60px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-shadow: -1px 1px 2px #000,
+    1px 1px 2px #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
+	-webkit-text-stroke: 4px white;
+}
+
+  .button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .image{
+    height:50em; background-size:cover; width:auto;
+    background-image:url('../../assets/img/band.jpg');
+    background-position:50% 50%;
+  }
+
