@@ -1,6 +1,6 @@
 # BandWebsite
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1. This project is an example of  website for a made up band. The purpose of this project was to implement angular and typescript to better understand how they can be used to create a front-end application.  
 
 ## Development server
 
